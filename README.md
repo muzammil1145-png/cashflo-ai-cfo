@@ -8,6 +8,10 @@ CashFlo is a private AI CFO workspace for small businesses. Owners can upload an
 
 The application detects single-month, annual, and multi-period statement layouts; normalizes financial metrics in the browser; and produces an executive dashboard, operating concerns, recommendations, AI CFO answers, reporting history, CSV exports, and print-ready management reports.
 
+## Example datasets
+
+Download the [example financial statements](examples/) to try the upload workflow. The folder includes three fictional CSV files, upload instructions, and expected results.
+
 ## Local development
 
 Requirements: Node.js 22.13 or newer.
